@@ -1,1 +1,1 @@
-worker: node ghostybot
+worker: node config.example.json
